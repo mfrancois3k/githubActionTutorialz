@@ -1,4 +1,4 @@
-egghead Github Action Lession 1  
+Egghead Github Action Lession 1  
 
 1st create file index.js
 inside type console.log('hello') and
