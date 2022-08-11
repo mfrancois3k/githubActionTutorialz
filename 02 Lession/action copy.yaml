@@ -1,7 +1,0 @@
-name: "hello world"
-description: "hi world im posting u in github"
-author: "Michael Francois mfrancois3k@gmail.com"
-
-runs:
-  using: "node18.5.0"
-  main: "index.js"
